@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang=""en">
+<head>
+        <title>Learning Limit</title>
+</head>
+<body>
+    <h1>Limits</h1>
+    <h3>Left Hand limit LHL</h3><br>
+    LHL=lim<sub>h-》0</sub>f(a-h)=lim<sub>x-》a<sup>-</sup></sub>
+f(x)<br>
+<h3>Right Hand Limit RHL</h3>
+RHL=lim<sub>h-》0</sub>f(a+h)=lim<sub>x-》a<sup>+</sup></sub>
+f(x)<br>
+<a href="https://www.askiitians.com/revision-notes/maths/limits/"><image src="https://images.app.goo.gl/xXTMj" alt="graph of parabola" height="300px"</a>
+    <p>limit will exist if LHL=RHL and value will be finite.</p>
+    <h2> Greatest integer function </h2><br>
+    <p>lim<sub>x-》1</sub>[x]=<s>Not defined</s><br> <b>LHL</b>=0 and  <b>RHL</b>=1</p>
+</body>
+</html>
